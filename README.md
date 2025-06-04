@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 
-**Harshitdy/Harshitdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on developing AI models and solutions for machine learning projects at my company.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning advanced concepts in AI, cloud deployment strategies, and automation frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on open-source Python projects, especially those involving AI or data analysis.
 
+- 🤔 I’m looking for help with improving the scalability and efficiency of AI models in production.
+
+- 💬 Ask me about Python, AI/ML development, or integrating AI into real-world applications.
+
+- 📫 How to reach me: [https://www.linkedin.com/in/harshitdy/]
+
+- 😄 Pronouns: He/Him
